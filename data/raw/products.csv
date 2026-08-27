@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Cost_Price,Selling_Price
+P001,SmartBuy Mechanical Keyboard,Electronics,Computer Accessories,SmartBuy,635.1,1035.8
+P002,UrbanLife Sofa,Home & Kitchen,Furniture,UrbanLife,31562.48,58769.98
+P003,TechWorld Electric Shaver,Beauty & Personal Care,Personal Care,TechWorld,39883.19,61654.16
+P004,TechWorld Electric Shaver,Beauty & Personal Care,Personal Care,TechWorld,43218.55,64945.12
+P005,NovaTech Cricket Bat,Sports & Fitness,Outdoor Sports,NovaTech,10233.72,13054.0
+P006,ProMax Belt,Fashion,Accessories,ProMax,42562.39,60514.36
+P007,TechWorld Resistance Bands,Sports & Fitness,Fitness Equipment,TechWorld,41088.5,66186.86
+P008,SmartBuy Track Pants,Sports & Fitness,Sportswear,SmartBuy,659.61,1008.47
+P009,PrimeChoice Mechanical Keyboard,Electronics,Computer Accessories,PrimeChoice,20606.89,28595.79
+P010,NextGen Ultrabook,Electronics,Laptops,NextGen,31875.59,50962.36
+P011,TrendPlus Conditioner,Beauty & Personal Care,Haircare,TrendPlus,54705.73,73972.58
+P012,SmartBuy Electric Shaver,Beauty & Personal Care,Personal Care,SmartBuy,46890.76,71460.39
+P013,SmartBuy Self Help Book,Books,Non-Fiction,SmartBuy,25137.07,47781.59
+P014,ProMax T-Shirt,Fashion,Men Clothing,ProMax,43798.95,63439.69
+P015,UrbanLife Pro Tablet,Electronics,Tablets,UrbanLife,6534.15,12633.12
+P016,ValueMart Mathematics Book,Books,Academic,ValueMart,51782.41,69740.23
+P017,ValueMart 5G Smartphone,Electronics,Mobiles,ValueMart,37839.74,69953.31
+P018,ValueMart Compact Powder,Beauty & Personal Care,Makeup,ValueMart,32593.58,52431.48
+P019,NovaTech Football,Sports & Fitness,Outdoor Sports,NovaTech,38131.42,53647.47
+P020,NextGen Mathematics Book,Books,Academic,NextGen,52074.99,74568.37
+P021,NovaTech Oral Care Kit,Beauty & Personal Care,Personal Care,NovaTech,36051.96,45670.41
+P022,NextGen Fantasy Novel,Books,Fiction,NextGen,8149.8,13357.8
+P023,ProMax Laptop Stand,Electronics,Computer Accessories,ProMax,44786.35,71450.48
+P024,ProMax Belt,Fashion,Accessories,ProMax,43744.14,72738.68
+P025,ValueMart Romance Novel,Books,Fiction,ValueMart,48358.47,63852.9
+P026,TrendPlus Jeans,Fashion,Men Clothing,TrendPlus,12534.31,22227.11
+P027,Elite Engineering Book,Books,Academic,Elite,9784.72,16543.72
+P028,NovaTech Fitness Band,Sports & Fitness,Sports Accessories,NovaTech,53877.03,70175.39
+P029,ProMax Foundation,Beauty & Personal Care,Makeup,ProMax,471.61,739.07
+P030,UrbanLife Jeans,Fashion,Men Clothing,UrbanLife,524.7,684.04
+P031,ProMax Microwave Oven,Home & Kitchen,Kitchen Appliances,ProMax,604.78,961.13
+P032,ValueMart Air Conditioner,Home & Kitchen,Home Appliances,ValueMart,21145.02,38719.11
+P033,NovaTech Wireless Headphones,Electronics,Audio,NovaTech,8311.43,11924.75
+P034,Elite Sofa,Home & Kitchen,Furniture,Elite,17220.37,28260.29
+P035,SmartBuy Coffee Maker,Home & Kitchen,Kitchen Appliances,SmartBuy,5316.96,8418.62
+P036,PrimeChoice Conditioner,Beauty & Personal Care,Haircare,PrimeChoice,16840.87,26723.57
+P037,UrbanLife Casual Shoes,Fashion,Footwear,UrbanLife,7404.56,14459.85
+P038,ProMax Sunglasses,Fashion,Accessories,ProMax,37053.57,67604.44
+P039,SmartBuy Vacuum Cleaner,Home & Kitchen,Home Appliances,SmartBuy,5932.3,9172.9
+P040,ProMax Lipstick,Beauty & Personal Care,Makeup,ProMax,41407.84,56406.17
+P041,Elite Watch,Fashion,Accessories,Elite,7964.39,10116.03
+P042,PrimeChoice Smartphone Max,Electronics,Mobiles,PrimeChoice,13109.06,26005.15
+P043,NovaTech Romance Novel,Books,Fiction,NovaTech,30716.35,50969.46
+P044,Elite Cricket Bat,Sports & Fitness,Outdoor Sports,Elite,21147.35,36169.9
+P045,NextGen Study Tablet,Electronics,Tablets,NextGen,33376.53,46435.32
+P046,SmartBuy Air Fryer,Home & Kitchen,Kitchen Appliances,SmartBuy,43713.3,57574.32
+P047,Elite Self Help Book,Books,Non-Fiction,Elite,10764.94,15120.61
+P048,TechWorld Portable Speaker,Electronics,Audio,TechWorld,11036.24,13833.94
+P049,NextGen Track Pants,Sports & Fitness,Sportswear,NextGen,5768.07,9297.57
+P050,PrimeChoice Wall Clock,Home & Kitchen,Home Decor,PrimeChoice,22016.9,32144.26
+P051,Elite Android Tablet,Electronics,Tablets,Elite,18186.88,30724.51
+P052,NextGen Water Bottle,Sports & Fitness,Sports Accessories,NextGen,16359.08,25411.82
+P053,NovaTech Body Groomer,Beauty & Personal Care,Personal Care,NovaTech,13375.09,23029.77
+P054,Elite Curtains,Home & Kitchen,Home Decor,Elite,14408.28,18747.8
+P055,NovaTech Mixer Grinder,Home & Kitchen,Kitchen Appliances,NovaTech,3033.48,4193.21
+P056,TrendPlus Refrigerator,Home & Kitchen,Home Appliances,TrendPlus,14476.01,21227.18
+P057,SmartBuy Moisturizer,Beauty & Personal Care,Skincare,SmartBuy,43329.59,71140.06
+P058,UrbanLife Casual Shirt,Fashion,Men Clothing,UrbanLife,35434.78,50270.05
+P059,ProMax Activity Book,Books,Children Books,ProMax,20235.03,27233.84
+P060,ValueMart Engineering Book,Books,Academic,ValueMart,25985.99,45471.73
+P061,TechWorld Wall Clock,Home & Kitchen,Home Decor,TechWorld,22209.29,28987.87
+P062,UrbanLife Laptop Stand,Electronics,Computer Accessories,UrbanLife,2659.75,3364.65
+P063,NextGen Water Bottle,Sports & Fitness,Sports Accessories,NextGen,41167.1,52937.81
+P064,TechWorld 10-inch Tablet,Electronics,Tablets,TechWorld,18595.89,25913.82
+P065,ValueMart Activity Book,Books,Children Books,ValueMart,27782.2,54141.2
+P066,ValueMart Vacuum Cleaner,Home & Kitchen,Home Appliances,ValueMart,41026.56,53456.47
+P067,ProMax Kids Encyclopedia,Books,Children Books,ProMax,42609.61,67149.9
+P068,Elite Biography,Books,Non-Fiction,Elite,3351.81,5356.89
+P069,PrimeChoice Electric Trimmer,Beauty & Personal Care,Personal Care,PrimeChoice,31945.51,45056.38
+P070,NovaTech USB Hub,Electronics,Computer Accessories,NovaTech,37156.85,71698.43
+P071,Elite Self Help Book,Books,Non-Fiction,Elite,24593.78,37277.93
+P072,PrimeChoice Electric Trimmer,Beauty & Personal Care,Personal Care,PrimeChoice,21541.2,32998.99
+P073,Elite Exercise Bike,Sports & Fitness,Fitness Equipment,Elite,25663.79,45658.82
+P074,TechWorld Smartphone Max,Electronics,Mobiles,TechWorld,11748.01,16569.45
+P075,ValueMart Body Groomer,Beauty & Personal Care,Personal Care,ValueMart,34959.74,53168.93
+P076,SmartBuy Formal Shirt,Fashion,Men Clothing,SmartBuy,35416.54,53206.33
+P077,NovaTech Air Fryer,Home & Kitchen,Kitchen Appliances,NovaTech,23594.31,40156.9
+P078,SmartBuy Water Bottle,Sports & Fitness,Sports Accessories,SmartBuy,40426.54,69565.35
+P079,NextGen Gaming Laptop,Electronics,Laptops,NextGen,20133.79,40233.78
+P080,ProMax Sneakers,Fashion,Footwear,ProMax,19240.82,24544.1
+P081,PrimeChoice Treadmill,Sports & Fitness,Fitness Equipment,PrimeChoice,21051.88,30802.62
+P082,NovaTech Kurti,Fashion,Women Clothing,NovaTech,34992.34,61847.53
+P083,SmartBuy Wall Clock,Home & Kitchen,Home Decor,SmartBuy,48188.7,72878.84
+P084,UrbanLife Kids Encyclopedia,Books,Children Books,UrbanLife,38343.94,54278.11
+P085,TechWorld Sports Bag,Sports & Fitness,Sports Accessories,TechWorld,30882.58,41450.12
+P086,SmartBuy Bookshelf,Home & Kitchen,Furniture,SmartBuy,10700.57,15531.93
+P087,PrimeChoice Learning Book,Books,Children Books,PrimeChoice,24170.75,33619.82
+P088,PrimeChoice Sunscreen,Beauty & Personal Care,Skincare,PrimeChoice,35748.57,67691.86
+P089,PrimeChoice Microwave Oven,Home & Kitchen,Kitchen Appliances,PrimeChoice,33847.21,61224.99
+P090,PrimeChoice Training Jacket,Sports & Fitness,Sportswear,PrimeChoice,24643.68,48672.7
+P091,Elite Air Fryer,Home & Kitchen,Kitchen Appliances,Elite,28733.47,51645.99
+P092,Elite Wireless Mouse,Electronics,Computer Accessories,Elite,14388.18,18619.71
+P093,ValueMart Wallet,Fashion,Accessories,ValueMart,7653.64,10554.8
+P094,UrbanLife Budget Smartphone,Electronics,Mobiles,UrbanLife,14440.61,28526.65
+P095,PrimeChoice Smartphone Pro,Electronics,Mobiles,PrimeChoice,9897.98,18850.47
+P096,NovaTech Laptop Stand,Electronics,Computer Accessories,NovaTech,29913.75,59492.1
+P097,ProMax Portable Speaker,Electronics,Audio,ProMax,33630.31,63998.05
+P098,TechWorld Webcam,Electronics,Computer Accessories,TechWorld,49862.14,66961.45
+P099,TrendPlus Jeans,Fashion,Men Clothing,TrendPlus,6119.14,11841.3
+P100,ValueMart Business Book,Books,Non-Fiction,ValueMart,7095.7,9492.86
